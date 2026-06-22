@@ -19,7 +19,7 @@
 - **[technopriest.net](https://github.com/Moody-code365/technopriest-site)** — my site & DevOps portfolio: live homelab metrics, projects, write-ups
 - **[TimeMateBot](https://github.com/Moody-code365/TimeMateBot)** — Telegram bot, containerized
 - **[TengeBot](https://github.com/Moody-code365/TengeBot)** — Telegram bot
-- **[Telegram-PCBuilderBot](https://github.com/Moody-code365/Telegram-PCBuilderBot)** — build a PC through Telegram
+- **[Telegram-PCBuilderBot](https://github.com/Moody-code365/Telegram-PCBuilderBot)** — bot that builds a PC to fit your budget (archived, WIP)
 - **oknovdom.kz** — commercial landing page for a client
 
 ### // homelab
