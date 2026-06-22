@@ -1,4 +1,4 @@
-```moody@technopriest.net ──────────────────────────────────
+``` moody@technopriest.net ──────────────────────────────────
   role     sysadmin  →  devops, in progress
   shift    nights · 17:00–02:00 · Almaty
   method   I learn by building a real homelab, not tutorials
@@ -16,6 +16,7 @@
 ### // shipped
 
 - **[ScrapperAD](https://github.com/Moody-code365/ScrapperAD)** — Telegram bot that pulls competitor ads from the Meta Ad Library, with AI analysis and PDF reports
+- **[technopriest.net](https://github.com/Moody-code365/technopriest-site)** — my site & DevOps portfolio: live homelab metrics, projects, write-ups
 - **[TimeMateBot](https://github.com/Moody-code365/TimeMateBot)** — Telegram bot, containerized
 - **[TengeBot](https://github.com/Moody-code365/TengeBot)** — Telegram bot
 - **[Telegram-PCBuilderBot](https://github.com/Moody-code365/Telegram-PCBuilderBot)** — build a PC through Telegram
